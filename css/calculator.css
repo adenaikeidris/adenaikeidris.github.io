@@ -12,10 +12,10 @@
 
 .container {
     margin: auto;
-    max-width: 350px;
+    max-width: 310px;
     height: fit-content;
     width: 100%;
-    padding: 0px 30px;
+/*     padding: 0px 30px; */
     border-radius: 5px;
     animation: fadeIn 2s;
 }
@@ -105,7 +105,7 @@
 }
 
 .row-gap-1 {
-    gap: 27px;
+    gap: 14px;
 }
 @media (max-width: 285px){
     .row-gap-1 {
