@@ -29,6 +29,7 @@ button {
 .box-2{
     margin: 0px auto;
     width: 100%;
+    height: auto;
     /* padding: auto 1rem; */
 }
 
