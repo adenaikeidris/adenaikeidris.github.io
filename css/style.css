@@ -292,6 +292,7 @@ text-decoration: none;
 
 .mx-auto{
   width: 67%;
+  margin: auto;
 }
 
 .my-2{
