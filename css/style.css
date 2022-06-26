@@ -290,11 +290,6 @@ text-decoration: none;
   margin-top: 1rem;
 }
 
-.mx-auto{
-  width: 67%;
-  margin: auto;
-}
-
 .my-2{
 margin: 15px auto;
 }
@@ -553,6 +548,10 @@ column-gap: 8px;
   .nav-grid{
     padding-top: 1.5rem;
   }
+  .mx-auto {
+    width: 70%;
+    margin: auto;
+}
   .mygoal>.content-paragraph{
     line-height: 1.5;
   }
