@@ -454,7 +454,7 @@ textarea[placeholder]{
 
   .bg-light{
     /* background-color: red; */
-    background-image: url("../webbyimg.jpg");
+    background-image: url(../images.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
